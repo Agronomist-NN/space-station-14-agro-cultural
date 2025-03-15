@@ -1,0 +1,93 @@
+# Head
+
+- type: loadout
+  id: SurgeonHat
+  equipment:
+    head: ClothingHeadSurgeonHat
+
+- type: loadout
+  id: BlueSurgeryCap
+  equipment:
+    head: ClothingHeadHatSurgcapBlue
+
+- type: loadout
+  id: GreenSurgeryCap
+  equipment:
+    head: ClothingHeadHatSurgcapGreen
+
+- type: loadout
+  id: PurpleSurgeryCap
+  equipment:
+    head: ClothingHeadHatSurgcapPurple
+
+# Jumpsuit
+
+- type: loadout
+  id: SurgeonJumpsuit
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitSurgeon
+
+- type: loadout
+  id: SurgeonJumpskirt
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtSurgeon
+    
+- type: loadout
+  id: SurgeonScrubBlue
+  equipment:
+    jumpsuit: UniformScrubsColorBlue
+    
+- type: loadout
+  id: SurgeonScrubGreen
+  equipment:
+    jumpsuit: UniformScrubsColorGreen
+    
+- type: loadout
+  id: SurgeonScrubPurple
+  equipment:
+    jumpsuit: UniformScrubsColorPurple
+    
+# Back
+
+- type: loadout
+  id: MedicalDoctorBackpack
+  equipment:
+    back: ClothingBackpackMedical
+
+- type: loadout
+  id: MedicalDoctorSatchel
+  equipment:
+    back: ClothingBackpackSatchelMedical
+
+- type: loadout
+  id: MedicalDoctorDuffel
+  equipment:
+    back: ClothingBackpackDuffelMedical
+
+# OuterClothing
+
+- type: loadout
+  id: SurgeonLabCoat
+  equipment:
+    outerClothing: ClothingOuterCoatLabSurgeon
+    
+# Shoes
+
+- type: loadout
+  id: MedicalWinterBoots
+  equipment:
+    shoes: ClothingShoesBootsWinterMed
+
+# Gloves
+
+- type: loadout
+  id: NitrileGloves
+  equipment:
+    gloves: ClothingHandsGlovesNitrile
+
+#Masks
+
+- type: loadout
+  id: SterileMask
+  equipment:
+    mask: ClothingMaskSterile

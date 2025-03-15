@@ -42,3 +42,21 @@
   - Survival
   - Medals #backmen
   - Inventory # Corvax-Loadouts
+
+- type: roleLoadout
+  id: JobSurgeon
+  groups:
+  - Werx #backmen
+  - Niz #backmen
+  - Socks #backmen
+  - ClothingHeadHatSurgeon
+  - ClothingJumpsuitSurgeon
+  - ClothingBackSurgeon
+  - ClothingOuterSurgeon
+  - ClothingShoesSurgeon
+  - ClothingGlovesSurgeon
+  - ClothingMaskSurgeon
+  - Trinkets
+  - Survival
+  - Medals #backmen
+  - Inventory # Corvax-Loadouts
