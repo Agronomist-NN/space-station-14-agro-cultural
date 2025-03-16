@@ -14,13 +14,13 @@
             "name": "prisoner"
         },
         {
+            "name": "surgeon"
+        },
+        {
             "name": "blueshield"
         },
         {
             "name": "stationAI"
-        },
-        {
-            "name": "Surgeon"
         }
     ]
 }
