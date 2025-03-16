@@ -179,34 +179,7 @@
   - SurgeonScrubPurple
 
 - type: loadoutGroup
-  id: ClothingBackSurgeon
-  name: loadout-group-surgeon-back
-  loadouts:
-  - MedicalDoctorBackpack
-  - MedicalDoctorSatchel
-  - MedicalDoctorDuffel
-
-- type: loadoutGroup
   id: ClothingOuterSurgeon
   name: loadout-group-surgeon-outer
   loadouts:
   - SurgeonLabCoat
-
-- type: loadoutGroup
-  id: ClothingShoesSurgeon
-  name: loadout-group-surgeon-shoes
-  loadouts:
-  - MedicalWinterBoots
-  - Laceup
-
-- type: loadoutGroup
-  id: ClothingGlovesSurgeon
-  name: loadout-group-surgeon-gloves
-  loadouts:
-  - NitrileGloves
-
-- type: loadoutGroup
-  id: ClothingMaskSurgeon
-  name: loadout-group-surgeon-mask
-  loadouts:
-  - SterileMask

@@ -51,11 +51,11 @@
   - Socks #backmen
   - ClothingHeadHatSurgeon
   - ClothingJumpsuitSurgeon
-  - ClothingBackSurgeon
+  - MedicalBackpack
   - ClothingOuterSurgeon
-  - ClothingShoesSurgeon
-  - ClothingGlovesSurgeon
-  - ClothingMaskSurgeon
+  - MedicalShoes
+  - MedicalGloves
+  - MedicalMask
   - Trinkets
   - Survival
   - Medals #backmen
