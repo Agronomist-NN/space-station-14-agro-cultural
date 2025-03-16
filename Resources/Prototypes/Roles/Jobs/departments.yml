@@ -108,6 +108,7 @@
   - Psychologist
   - Paramedic
   - Surgeon #backmen
+  - Virologist #backmen
   accountNumber: 1319 #backmen: currency
 
 - type: department

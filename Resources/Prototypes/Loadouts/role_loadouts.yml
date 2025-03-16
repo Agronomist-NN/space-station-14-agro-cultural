@@ -665,6 +665,29 @@
   - GroupSpeciesBreathToolMedical
   - Inventory # Corvax-Loadouts
 
+#backmen
+- type: roleLoadout
+  id: JobVirologist
+  groups:
+  - Werx #backmen
+  - Niz #backmen
+  - Socks #backmen
+  - GroupTankHarness
+  - ClothingHeadHatViro
+  - MedicalMask
+  - ClothingJumpsuitVirologist
+  - MedicalGloves
+  - ClothingBackVirologist
+  - ClothingOuterVirologist
+  - MedicalShoes
+  - Glasses
+  - Medals #backmen
+  - SurvivalMedical
+  - Trinkets
+  - GroupSpeciesBreathToolMedical
+  - Inventory # Corvax-Loadouts
+#backmen
+
 # Wildcards
 - type: roleLoadout
   id: JobZookeeper

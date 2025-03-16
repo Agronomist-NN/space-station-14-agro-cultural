@@ -261,6 +261,16 @@
   - type: AccessReader
     access: [["Medical"]]
 
+#backmen
+- type: entity
+  parent: DoorElectronics
+  id: DoorElectronicsMedicalVirology
+  suffix: Virology, Locked
+  components:
+  - type: AccessReader
+    access: [["Virology"]]
+#backmen
+
 # Syndicate
 - type: entity
   parent: DoorElectronics

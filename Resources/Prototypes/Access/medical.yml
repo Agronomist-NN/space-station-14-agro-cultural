@@ -14,9 +14,17 @@
   id: Paramedic
   name: id-card-access-level-paramedic
 
+#Backmen
+- type: accessLevel
+  id: Virology 
+  name: id-card-access-level-virology
+#Backmen
+
 - type: accessGroup
   id: Medical
   tags:
   - ChiefMedicalOfficer
   - Medical
   - Chemistry
+  - Virology #Backmen
+  - Paramedic #Backmen

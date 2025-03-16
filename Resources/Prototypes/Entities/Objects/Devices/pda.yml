@@ -1489,3 +1489,24 @@
     borderColor: "#7F3300"
   - type: Icon
     state: pda-wizard
+
+#backmen
+- type: entity
+  parent: BaseMedicalPDA
+  id: VirologistPDA
+  name: virologist PDA
+  description: Shiny and sterile.
+  components:
+  - type: Pda
+    id: VirologistIDCard
+  - type: Appearance
+    appearanceDataInit:
+     enum.PdaVisuals.PdaType:
+       !type:String
+       pda-virology
+  - type: PdaBorderColor
+    borderColor: "#d7d7d0"
+    accentVColor: "#90EE90"
+  - type: Icon
+    state: pda-virology
+#backmen

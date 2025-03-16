@@ -1377,6 +1377,36 @@
   - EmergencyOxygenMedical
   - LoadoutSpeciesVoxNitrogen
 
+#backmen
+- type: loadoutGroup
+  id: ClothingHeadHatViro
+  name: loadout-group-virologist-hat
+  loadouts:
+  - GreenSurgeryCap
+  
+- type: loadoutGroup
+  id: ClothingJumpsuitVirologist
+  name: loadout-group-virologist-jumpsuit
+  loadouts:
+  - VirologistJumpsuit
+  - VirologistJumpskirt
+  
+- type: loadoutGroup
+  id: ClothingBackVirologist
+  name: loadout-group-virologist-back
+  loadouts:
+  - VirologistBackpack
+  - VirologistSatchel
+  - VirologistDuffel
+  
+- type: loadoutGroup
+  id: ClothingOuterVirologist
+  name: loadout-group-virologist-outer
+  loadouts:
+  - VirologistLabCoat
+  
+#backmen
+
 # Wildcards
 - type: loadoutGroup
   id: ReporterJumpsuit

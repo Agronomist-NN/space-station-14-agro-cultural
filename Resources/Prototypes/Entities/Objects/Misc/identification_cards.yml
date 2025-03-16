@@ -868,3 +868,17 @@
     interfaces:
       enum.AgentIDCardUiKey.Key:
         type: AgentIDCardBoundUserInterface
+
+#backmen
+- type: entity
+  parent: IDCardStandard
+  id: VirologistIDCard
+  name: virologist ID card
+  components:
+  - type: Sprite
+    layers:
+    - state: default
+    - state: idvirologist
+  - type: PresetIdCard
+    job: Virologist
+#backmen
