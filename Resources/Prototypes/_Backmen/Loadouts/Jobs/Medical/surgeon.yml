@@ -5,6 +5,21 @@
   equipment:
     head: ClothingHeadSurgeonHat
 
+- type: loadout
+  id: BlueSurgeryCap
+  equipment:
+    head: ClothingHeadHatSurgcapBlue
+
+- type: loadout
+  id: GreenSurgeryCap
+  equipment:
+    head: ClothingHeadHatSurgcapGreen
+
+- type: loadout
+  id: PurpleSurgeryCap
+  equipment:
+    head: ClothingHeadHatSurgcapPurple
+
 # Jumpsuit
 
 - type: loadout
