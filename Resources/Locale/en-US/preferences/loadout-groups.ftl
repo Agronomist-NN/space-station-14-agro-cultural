@@ -196,6 +196,11 @@ loadout-group-paramedic-jumpsuit = Paramedic jumpsuit
 loadout-group-paramedic-outerclothing = Paramedic outer clothing
 loadout-group-paramedic-shoes = Paramedic shoes
 
+loadout-group-virologist-hat = Virologist head
+loadout-group-virologist-jumpsuit = Virologist jumpsuit
+loadout-group-virologist-back = Virologist back
+loadout-group-virologist-outer = Virologist outer clothing
+
 # Wildcards
 loadout-group-reporter-jumpsuit = Reporter jumpsuit
 
