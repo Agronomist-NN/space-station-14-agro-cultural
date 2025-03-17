@@ -907,8 +907,8 @@
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitSurgeon
   name: surgeon jumpsuit
-  description: A jumpsuit designed for a station surgeon. I wonder why it's black...
-  components:
+  description: 
+  components: A jumpsuit designed for a station surgeon. I wonder why it's black...
   - type: Sprite
     sprite: Backmen/Clothing/Uniforms/jumpsuit/surgeon_jumpsuit.rsi
   - type: Clothing
