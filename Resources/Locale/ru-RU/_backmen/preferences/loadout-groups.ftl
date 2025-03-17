@@ -4,3 +4,6 @@ loadout-group-security-pilot-head = Пилот СБ, голова
 loadout-group-security-pilot-outerclothing = Пилот СБ, верхняя одежда
 loadout-group-security-pilot-belt = Пилот СБ, пояс
 loadout-group-security-pilot-eyes = Пилот СБ, глаза
+loadout-group-surgeon-jumpsuit = Хирург, комбинезон
+loadout-group-surgeon-outer = Хирург, верхняя одежда
+loadout-group-surgeon-hat = Хирург, голова
