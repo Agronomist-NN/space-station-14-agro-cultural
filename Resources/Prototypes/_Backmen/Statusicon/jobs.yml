@@ -115,5 +115,5 @@
   id: JobIconSurgeon
   icon:
     sprite: /Textures/Backmen/Icons/jobicon.rsi
-    state: Surgeon
+    state: surgeon
   jobName: job-name-surgeon
