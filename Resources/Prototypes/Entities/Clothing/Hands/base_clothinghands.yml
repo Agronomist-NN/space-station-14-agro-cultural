@@ -7,6 +7,10 @@
     state: icon
   - type: Clothing
     slots: [gloves]
+  # backmen edit start
+    equipSound:
+      collection: GenericEquip
+  # backmen edit end
   - type: Food
     requiresSpecialDigestion: true
   - type: Item

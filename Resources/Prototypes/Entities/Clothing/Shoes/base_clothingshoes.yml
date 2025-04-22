@@ -3,9 +3,22 @@
   parent: Clothing
   id: ClothingShoesBase
   components:
+  # backmen edit start
+  - type: EmitSoundOnPickup
+    sound:
+      path: /Audio/Backmen/Items/handling/shoes_pickup.ogg
+  - type: EmitSoundOnDrop
+    sound:
+      path: /Audio/Backmen/Items/handling/shoes_drop.ogg
+  - type: EmitSoundOnLand
+    sound:
+      path: /Audio/Backmen/Items/handling/boots_drop.ogg
   - type: Clothing
     slots:
     - FEET
+    equipSound:
+      collection: GenericEquip
+  # backmen edit end
   - type: Sprite
     state: icon
   - type: Item
