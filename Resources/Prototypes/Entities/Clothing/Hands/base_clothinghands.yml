@@ -9,7 +9,9 @@
     slots: [gloves]
   # backmen edit start
     equipSound:
-      collection: GenericEquip
+      path: /Audio/Backmen/Items/handling/generic_equip2.ogg
+      params:
+        volume: -4
   # backmen edit end
   - type: Food
     requiresSpecialDigestion: true
