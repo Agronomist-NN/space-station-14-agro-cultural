@@ -57,9 +57,6 @@
   - type: EmitSoundOnDrop
     sound:
       path: /Audio/Backmen/Items/handling/phone_drop.ogg
-  - type: EmitSoundOnLand
-    sound:
-      path: /Audio/Backmen/Items/handling/phone_drop.ogg
   # backmen edit end
   - type: EmitSoundOnLand
     sound:

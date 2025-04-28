@@ -27,7 +27,7 @@
   # backmen edit start
   - type: EmitSoundOnPickup
     sound:
-      path: /Audio/Backmen/Items/handling/cloth_pickup.ogg
+      path: /Audio/Backmen/Items/handling/component_pickup.ogg
   - type: EmitSoundOnDrop
     sound:
       path: /Audio/Backmen/Items/handling/component_drop.ogg
